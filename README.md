@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # System Performance Monitor Dashboard
 
 A real-time system performance monitoring dashboard built with Next.js, TailwindCSS, and Chart.js. Monitor CPU, Memory, and Disk usage with beautiful charts and real-time updates.
@@ -278,3 +279,6 @@ If you encounter any issues or have questions:
 ---
 
 **Happy Monitoring! 🚀**
+=======
+# Next_Project
+>>>>>>> 538b9644e780f397e65aa4366f86f203f305ae42
